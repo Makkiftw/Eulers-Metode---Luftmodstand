@@ -8,3 +8,4 @@ Legemet antages at være kugleformet og dens værdier kan ændres i selve progra
 man kan vælge en værdi fx legemets masse, ved at klikke på tasterne 1, 2, 3, 4, 5, 6 eller bruge pile-tasterne til at navigere.
 Så kan man trykke 'Enter' for at skrive en ny værdi og 'Enter' igen for at opdatere legemets banekurve.
 
+Programmet er skrevet af Lucas Jørgensen, studerende på Sorø Akademi, i forbindelse med mit SRP projekt.
